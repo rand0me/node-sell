@@ -1,0 +1,23 @@
+{
+  "name": "@sell/core",
+  "version": "0.0.0",
+  "description": "Modular advertising made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rand0me/node-sell.git"
+  },
+  "keywords": [
+    "advertising",
+    "ads"
+  ],
+  "author": "rand0me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rand0me/node-sell/issues"
+  },
+  "homepage": "https://github.com/rand0me/node-sell#readme"
+}

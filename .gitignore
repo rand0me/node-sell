@@ -1,0 +1,12 @@
+# Node.js, NPM and Yarn
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDEs
+.idea/
+.settings/
+.vscode
+
+# Other
+.DS_STORE
