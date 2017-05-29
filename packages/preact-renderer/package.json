@@ -1,0 +1,12 @@
+{
+  "name": "@sell/preact-renderer",
+  "version": "0.0.0",
+  "description": "Preact render engine for Sell",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rand0me",
+  "license": "ISC"
+}
