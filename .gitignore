@@ -10,3 +10,5 @@ yarn-error.log
 
 # Other
 .DS_STORE
+
+packages/*/dist
