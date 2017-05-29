@@ -1,6 +1,6 @@
 {
   "name": "@sell/preact-renderer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Preact render engine for Sell",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
