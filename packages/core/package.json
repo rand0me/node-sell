@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/rand0me/node-sell/issues"
   },
-  "homepage": "https://github.com/rand0me/node-sell#readme"
+  "homepage": "https://github.com/rand0me/node-sell#readme",
+  "dependencies": {
+    "typescript": "^2.3.3"
+  }
 }
