@@ -3,9 +3,11 @@
         "lib": [ "es5" ],
         "target": "es5",
         "module": "commonjs",
+        "declaration": true,
         "noImplicitAny": true,
         "removeComments": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "outDir": "dist"
     },
     "include": [
         "./src/**/*.ts"
